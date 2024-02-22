@@ -38,7 +38,7 @@ export default function RecipeReviewCard() {
       <CardHeader
         avatar={
           <Avatar sx={{ bgcolor: red[500] }} aria-label="recipe">
-            R
+            N
           </Avatar>
         }
         action={
@@ -46,8 +46,8 @@ export default function RecipeReviewCard() {
             <MoreVertIcon />
           </IconButton>
         }
-        title="This is the test"
-        subheader="September 14, 2016"
+        title="NIKHAT KI BIRYANI"
+        subheader="February 22, 2024"
       />
       <CardMedia
         component="img"
